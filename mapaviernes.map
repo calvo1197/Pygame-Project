@@ -1,0 +1,63 @@
+[nivel1]
+origen=terrenogen.png
+alto=32
+ancho=32
+
+mapa=CCCCC..............mmm
+     pkkpC..............mmm
+     CCCkCCCCTQT........mmm
+     ..CpkkpCTTT........mmm
+     ..CCCCkCTTTTTT.....mmm
+     ..TQTCkCCCCTQT.....mmm
+     ..TTTCpkkpCTTT.....mmm
+     ..TTTCCCCkCTTTTTT..mmm
+     ..TTTTQTCkCCCCTQT..mmm
+     .....TTTCpkkpCTTT..mmm
+     .....TTTCCCCkCTTT..mmm
+     .....TTTTQTCkCCCCCCmmm
+     ........TTTCpkkkkpCmmm
+     ........TTTCCCCCCXCmmm
+     .........TTTTTT.CpCmmm
+
+[m]
+nombre=piso
+x=21
+y=9
+
+[.]
+nombre=pasto
+x=16
+y=9
+
+[$]
+nombre=pared
+x=22
+y=3
+
+[p]
+nombre=pto
+x=13
+y=9
+
+[k]
+nombre=kamino
+x=13
+y=9
+
+[Q]
+nombre=quero
+x=12
+y=9
+[T]
+nombre=torre
+x=12
+y=9
+
+[C]
+x=19
+y=9
+
+[X]
+nombre=final
+x=13
+y=9
